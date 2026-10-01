@@ -1,6 +1,76 @@
-# 💫 About Me:
-Computer Science student at Zagazig University (graduating 2027), building mobile and web apps with Flutter, Dart, and React.<br><br>Currently, I'm an intern in the Front-End track at the Digital Egypt Pioneers Initiative (DEPI) and in the Front-End AI Engineering track at FlyRank. I'm also taking part in GCI World 2026, an AI and data science program by the University of Tokyo (Matsuo-Iwasawa Laboratory).<br><br>What I've worked on:<br>- Quizly: a Flutter quiz app connecting students and teachers, with separate roles, quiz creation, and progress tracking.<br>- A RAG (Retrieval-Augmented Generation) system in Python to support patients with fatty liver disease, which ranked in the Top 5 at the Creativa x Instant (Orange) AI Hackathon.<br>- System analysis for Shatably, a home services app, including DFDs (Levels 0-2) and requirements.<br><br>I'm an active member of GDG On-Campus Zagazig, I enjoy attending tech events like the GDS conference, and I like explaining technical concepts and helping others learn.<br><br>I'm looking for an internship or entry-level opportunity in front-end, mobile, or AI-powered development, including roles that combine development with teaching or mentoring.<br><br>Skills: Flutter, Dart, React, JavaScript, Python, C++, Java, Git, System Analysis<br><br>Let's connect: ashrafnagy.dev@gmail.com
+Hi, I'm Ashraf Nagy 👋
 
+Computer Science student · Flutter & React Developer · AI enthusiast
+
+I build mobile and web apps with Flutter, Dart, and React. I'm a third-year student at Zagazig University (graduating 2027), currently interning in front-end and AI engineering, and I enjoy explaining technical ideas as much as building with them.
+
+📍  Sharqia, Egypt
+
+🚀 What I'm Doing Now
+💼 Front-End Development Intern at the Digital Egypt Pioneers Initiative (DEPI), React track
+💼 Front-End AI Engineering Intern at FlyRank
+🎓 GCI World 2026 (September), an AI and data science program by the Matsuo-Iwasawa Laboratory, The University of Tokyo
+🌱 Getting deeper into React, and into building front-end features powered by AI
+🛠 Tech Stack
+
+Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image
+
+Also: System Analysis · Data Flow Diagrams (DFD) · Requirements Gathering · RAG Systems · Machine Learning Fundamentals
+
+📂 Projects
+📱 Quizly: Flutter Quiz App
+
+A quiz platform that connects students and teachers in one app.
+
+Teachers create and publish quizzes for their students
+Students take quizzes and track their scores and progress
+Two user roles (student and teacher), each with its own app flow and UI
+
+Flutter Dart
+
+🤖 RAG System for Fatty Liver Patients
+
+Built during the AI Hackathon, Creativa x Instant (Orange): a Retrieval-Augmented Generation system in Python that helps support patients with fatty liver disease.
+
+🏆 Ranked in the Top 5 among all participating teams
+
+Python RAG AI
+
+🏠 Shatably: System Analysis (Academic Project)
+
+Full system analysis for a home services mobile app.
+
+Data Flow Diagrams, Levels 0, 1, and 2
+Functional and non-functional requirements
+System entities, inputs/outputs, process interactions, and workflow documentation
+🎵 Music Playlist App (C++)
+
+A playlist system with play/stop features, built with data structures and basic algorithmic logic.
+
+C++
+
+🎮 Brick Breaker (Java)
+
+A Breakout-style game built with a team of friends, focused on game logic and UI interactions.
+
+Java
+
+🎓 Education & Training
+	
+Zagazig University, Faculty of Computers and Information	Third-year student, expected graduation 2027
+DEPI, Web Development Track (React)	In progress
+ITI, Flutter Track	Completed
+GCI World 2026, AI & Data Science (University of Tokyo)	In progress
+🤝 Community
+GDG On-Campus Zagazig: member, joining workshops and sessions on Flutter and app development, building small projects with fellow members, and taking part in open-source discussions
+Attended the GDS conference
+🌍 Languages
+
+Arabic (native) · English (good: reading, writing, speaking)
+
+🎯 Open To
+
+Internships and entry-level roles in front-end, mobile, or AI-powered development, including roles that combine software development with teaching or mentoring.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/2shrf_404) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashraf._nagy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/2shrf) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ashraf_nagy) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/@ashraf_nagy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Ashraf_nagy_7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashrafnagy.dev@gmail.com) 
