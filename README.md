@@ -81,7 +81,7 @@ A Breakout-style game built with a team of friends, focused on game logic and UI
 
 ## 🌍 Languages
 
-Arabic (native) · English (good: reading, writing, speaking)
+Arabic (native) · English (very good: reading, writing, speaking)
 
 ## 🎯 Open To
 
